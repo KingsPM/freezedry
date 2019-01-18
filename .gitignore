@@ -1,5 +1,6 @@
-# HTML reports in root directory
+# HTML reports and CSV files in root directory
 *.html
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
